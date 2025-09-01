@@ -1,4 +1,4 @@
-use client
+"use client";
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
 import CtaAbout from '@/components/sections/layouts/about/CtaAbout';
 import HowToBuy2D from '@/components/sections/layouts/howtobuy/2DHTB';
